@@ -75,7 +75,7 @@ export default function Page() {
                 <span className="inline-flex items-center dark:text-white text-black  justify-center font-semibold leading-none text-xs sm:text-sm">
                   🎓 Last Education:
                 </span>{" "}
-                Bachelors
+                Bachelors in Computer Science
               </p>
               <p className="mt-2 text-muted-foreground text-xs sm:text-sm">
                 <span className="inline-flex items-center dark:text-white text-black justify-center font-semibold leading-none text-xs sm:text-sm">
